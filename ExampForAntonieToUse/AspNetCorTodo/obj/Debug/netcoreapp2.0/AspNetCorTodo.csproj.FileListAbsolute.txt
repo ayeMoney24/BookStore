@@ -1,0 +1,13 @@
+C:\Users\Wu_Goo\source\repos\AspNetCorTodo\bin\Debug\netcoreapp2.0\app.db
+C:\Users\Wu_Goo\source\repos\AspNetCorTodo\bin\Debug\netcoreapp2.0\AspNetCorTodo.deps.json
+C:\Users\Wu_Goo\source\repos\AspNetCorTodo\bin\Debug\netcoreapp2.0\AspNetCorTodo.runtimeconfig.json
+C:\Users\Wu_Goo\source\repos\AspNetCorTodo\bin\Debug\netcoreapp2.0\AspNetCorTodo.runtimeconfig.dev.json
+C:\Users\Wu_Goo\source\repos\AspNetCorTodo\bin\Debug\netcoreapp2.0\AspNetCorTodo.dll
+C:\Users\Wu_Goo\source\repos\AspNetCorTodo\bin\Debug\netcoreapp2.0\AspNetCorTodo.pdb
+C:\Users\Wu_Goo\source\repos\AspNetCorTodo\obj\Debug\netcoreapp2.0\AspNetCorTodo.csprojResolveAssemblyReference.cache
+C:\Users\Wu_Goo\source\repos\AspNetCorTodo\obj\Debug\netcoreapp2.0\AspNetCorTodo.csproj.CoreCompileInputs.cache
+C:\Users\Wu_Goo\source\repos\AspNetCorTodo\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Wu_Goo\source\repos\AspNetCorTodo\obj\Debug\netcoreapp2.0\AspNetCorTodo.AssemblyInfoInputs.cache
+C:\Users\Wu_Goo\source\repos\AspNetCorTodo\obj\Debug\netcoreapp2.0\AspNetCorTodo.AssemblyInfo.cs
+C:\Users\Wu_Goo\source\repos\AspNetCorTodo\obj\Debug\netcoreapp2.0\AspNetCorTodo.dll
+C:\Users\Wu_Goo\source\repos\AspNetCorTodo\obj\Debug\netcoreapp2.0\AspNetCorTodo.pdb
