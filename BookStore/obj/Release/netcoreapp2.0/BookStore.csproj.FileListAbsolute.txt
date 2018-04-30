@@ -1,0 +1,13 @@
+C:\Users\Wu_Goo\source\repos\BookStore\bin\Release\netcoreapp2.0\app.db
+C:\Users\Wu_Goo\source\repos\BookStore\bin\Release\netcoreapp2.0\BookStore.deps.json
+C:\Users\Wu_Goo\source\repos\BookStore\bin\Release\netcoreapp2.0\BookStore.runtimeconfig.json
+C:\Users\Wu_Goo\source\repos\BookStore\bin\Release\netcoreapp2.0\BookStore.runtimeconfig.dev.json
+C:\Users\Wu_Goo\source\repos\BookStore\bin\Release\netcoreapp2.0\BookStore.dll
+C:\Users\Wu_Goo\source\repos\BookStore\bin\Release\netcoreapp2.0\BookStore.pdb
+C:\Users\Wu_Goo\source\repos\BookStore\obj\Release\netcoreapp2.0\BookStore.csprojResolveAssemblyReference.cache
+C:\Users\Wu_Goo\source\repos\BookStore\obj\Release\netcoreapp2.0\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\Wu_Goo\source\repos\BookStore\obj\Release\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Wu_Goo\source\repos\BookStore\obj\Release\netcoreapp2.0\BookStore.AssemblyInfoInputs.cache
+C:\Users\Wu_Goo\source\repos\BookStore\obj\Release\netcoreapp2.0\BookStore.AssemblyInfo.cs
+C:\Users\Wu_Goo\source\repos\BookStore\obj\Release\netcoreapp2.0\BookStore.dll
+C:\Users\Wu_Goo\source\repos\BookStore\obj\Release\netcoreapp2.0\BookStore.pdb
